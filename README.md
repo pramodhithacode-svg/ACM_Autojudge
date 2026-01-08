@@ -89,8 +89,8 @@ A web-based interface is implemented using **Streamlit** to demonstrate real-tim
 
 A 2–3 minute demonstration video showcasing the project overview, model approach, and the working web interface is available at the link below:
 
-🔗 **Demo Video:** https://your-video-link-here
-
+🔗 **Demo Video:** [https://your-video-link-here
+](https://drive.google.com/file/d/1BNfULZTeJYKz8jYAeaD-czvVZYbgmBI9/view?usp=drive_link)
 ---
 
 ## 👤 Author Details
